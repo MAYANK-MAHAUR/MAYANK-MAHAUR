@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New...;Building+and+Breaking+PCs+%F0%9F%92%BB;Gaming+is+Life+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New...;Building+and+Breaking+PCs+%F0%9F%92%BB+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🎉 Fun Facts
 
 - 🛠️ I love troubleshooting and upgrading computers.
-- 🎯 FPS games are my jam!
+- 🎯 Story games are my jam!
 - 🤖 Always up for learning something new in tech.
 
 <p align="center">
